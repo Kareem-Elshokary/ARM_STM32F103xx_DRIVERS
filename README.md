@@ -4,19 +4,17 @@ STM32f103c8t6 Driver Implementation
 # Getting Started
 To get started with using the driver in your project, you will need to have the following software and hardware:
 
-Software
+Software 
 
-Your preferred ARM development environment (e.g. Keil, IAR, GCC)
+Your preferred ARM development environment (e.g. Keil, IAR, GCC) 
 
-STM32 Cube IDE
+STM32 Cube IDE 
 
+Hardware 
 
+STM32f103c8t6 development board 
 
-Hardware
-
-STM32f103c8t6 development board
-
-ST Link V2 Programmer
+ST Link V2 Programmer 
 
 # Using the Driver
 
